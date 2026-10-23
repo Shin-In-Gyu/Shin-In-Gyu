@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Shin%20In-Gyu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20%C2%B7%20App%20Developer&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=20&pause=1200&color=4F46E5&center=true&vCenter=true&width=520&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%8B%A0%EC%9D%B8%EA%B7%9C%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;%ED%95%99%EA%B5%90+%EC%83%9D%ED%99%9C%EC%9D%84+%ED%8E%B8%ED%95%98%EA%B2%8C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EC%95%B1%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4" />
+
 
 </div>
 

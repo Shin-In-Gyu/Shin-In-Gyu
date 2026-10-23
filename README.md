@@ -69,18 +69,3 @@
 <p>
   <a href="https://github.com/CodeBiteApp/frontend"><img src="https://img.shields.io/badge/CodeBite%20Frontend-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shin-In-Gyu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=4F46E5&icon_color=06B6D4" />
-<img height="165" src="https://streak-stats.demolab.com?user=Shin-In-Gyu&hide_border=true&theme=transparent&ring=4F46E5&fire=06B6D4&currStreakLabel=4F46E5" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=100&section=footer" width="100%" />
-
-</div>

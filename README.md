@@ -16,6 +16,8 @@ inkyu102077@gmail.com
 
 [App Store](https://apps.apple.com/us/app/%EA%B0%95%EB%A6%BC%EC%9D%B4-%EA%B0%95%EB%82%A8%EB%8C%80%ED%95%99%EA%B5%90-%EA%B3%B5%EC%A7%80%EC%95%B1/id6758569535) · [Google Play](https://play.google.com/store/apps/details?id=com.campusnotice.fe)
 
+<img src="assets/kangrimi-home.png" width="260" alt="강림이 메인 화면">
+
 ### 개선 결과
 
 | 항목 | 전 | 후 |

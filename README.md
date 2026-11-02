@@ -14,11 +14,18 @@ inkyu102077@gmail.com
 강남대학교 26개 게시판의 공지를 한 앱에 모으고, 구독한 키워드의 공지가 올라오면 푸시로 알려주는 서비스입니다.
 2인 팀으로 기획부터 함께 했고, 백엔드 전체와 배포·운영을 맡았습니다. App Store와 Google Play에 출시했고 누적 다운로드는 약 800회입니다.
 
-[App Store](https://apps.apple.com/us/app/%EA%B0%95%EB%A6%BC%EC%9D%B4-%EA%B0%95%EB%82%A8%EB%8C%80%ED%95%99%EA%B5%90-%EA%B3%B5%EC%A7%80%EC%95%B1/id6758569535) · [Google Play](https://play.google.com/store/apps/details?id=com.campusnotice.fe)
+<a href="https://apps.apple.com/us/app/%EA%B0%95%EB%A6%BC%EC%9D%B4-%EA%B0%95%EB%82%A8%EB%8C%80%ED%95%99%EA%B5%90-%EA%B3%B5%EC%A7%80%EC%95%B1/id6758569535"><img src="https://img.shields.io/badge/App%20Store-006DB8?style=flat-square&logo=appstore&logoColor=white" alt="App Store"></a> <a href="https://play.google.com/store/apps/details?id=com.campusnotice.fe"><img src="https://img.shields.io/badge/Google%20Play-006DB8?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"></a>
 
-<img src="assets/kangrimi-home.png" width="260" alt="강림이 메인 화면">
+<table>
+<tr>
+<td width="250" valign="top">
 
-### 개선 결과
+<img src="assets/kangrimi-home.png" width="230" alt="강림이 메인 화면">
+
+</td>
+<td valign="top">
+
+**개선 결과**
 
 | 항목 | 전 | 후 |
 | :--- | ---: | ---: |
@@ -32,6 +39,10 @@ inkyu102077@gmail.com
 
 상세 응답 시간은 네트워크를 제외한 서버 내부 처리 시간이고, 로컬 환경에서 측정했습니다.
 목록은 응답 크기 기준이며, 같은 DB 스냅샷에 수정 전후 코드를 각각 실행해 비교했습니다.
+
+</td>
+</tr>
+</table>
 
 ### 문제를 푼 과정
 
